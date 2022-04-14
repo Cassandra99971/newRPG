@@ -11,3 +11,5 @@ Micheal Afton: strength, can handle a beating. But emotionally damaged and strug
 Elizabeth Aftion: curiousity, always tries to jump into action, never plans ahead but is stubborn to keep trying. wont give up. curiousity kills the cat. 
 Crying child: great at hiding and getting into small places. Cries a lot and is stubborn in some scenarios. Always gets into trouble. 
 Charlotte/Charlie: Charismatic, always can lift a person up. strong and couragous, curious and stubborn. but she can get into horrible situation and is too afraid to ask for help. 
+
+It would be easier to great my own models and then display them on the dashboard when a certain word is typed/said. (activated by a word) 
